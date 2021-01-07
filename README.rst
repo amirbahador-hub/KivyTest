@@ -1,4 +1,4 @@
 Kivy notes
 ============
 
-https://kivy.org/#home
+home page => https://kivy.org/#home
